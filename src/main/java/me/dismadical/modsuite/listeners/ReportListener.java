@@ -1,6 +1,6 @@
 package me.dismadical.modsuite.listeners;
 
-import me.dismadical.modsuite.Reports.ReportHandler;
+import me.dismadical.modsuite.reports.ReportHandler;
 import me.dismadical.modsuite.utils.CC;
 import org.bukkit.entity.Player;
 import org.bukkit.event.EventHandler;

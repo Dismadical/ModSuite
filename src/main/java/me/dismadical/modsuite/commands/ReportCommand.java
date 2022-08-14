@@ -1,7 +1,7 @@
 package me.dismadical.modsuite.commands;
 
 import me.dismadical.modsuite.ModSuite;
-import me.dismadical.modsuite.Reports.ReportHandler;
+import me.dismadical.modsuite.reports.ReportHandler;
 import me.dismadical.modsuite.utils.CC;
 import org.apache.commons.lang.StringUtils;
 import org.bukkit.Bukkit;

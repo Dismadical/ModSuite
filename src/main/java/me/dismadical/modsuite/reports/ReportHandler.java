@@ -1,4 +1,4 @@
-package me.dismadical.modsuite.Reports;
+package me.dismadical.modsuite.reports;
 
 import me.dismadical.modsuite.ModSuite;
 import org.bukkit.entity.Player;

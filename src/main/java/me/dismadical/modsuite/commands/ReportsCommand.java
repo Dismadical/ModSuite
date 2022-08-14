@@ -1,7 +1,7 @@
 package me.dismadical.modsuite.commands;
 
-import me.dismadical.modsuite.Reports.ReportHandler;
-import me.dismadical.modsuite.Reports.menu.ReportsMenu;
+import me.dismadical.modsuite.reports.ReportHandler;
+import me.dismadical.modsuite.reports.menu.ReportsMenu;
 import me.dismadical.modsuite.utils.CC;
 import me.dismadical.modsuite.utils.menu.Menu;
 import org.bukkit.command.Command;

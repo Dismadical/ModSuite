@@ -1,7 +1,7 @@
-package me.dismadical.modsuite.Reports.menu;
+package me.dismadical.modsuite.reports.menu;
 
-import me.dismadical.modsuite.Reports.Report;
-import me.dismadical.modsuite.Reports.ReportHandler;
+import me.dismadical.modsuite.reports.Report;
+import me.dismadical.modsuite.reports.ReportHandler;
 import me.dismadical.modsuite.utils.CC;
 import me.dismadical.modsuite.utils.ItemBuilder;
 import me.dismadical.modsuite.utils.menu.Button;
